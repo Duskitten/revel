@@ -1,7 +1,7 @@
-short_name = "godot"
-name = "Godot Engine"
-major = 4
-minor = 3
+short_name = "revel"
+name = "Revel Engine"
+major = 1
+minor = 0
 patch = 0
 status = "dev"
 module_config = ""
