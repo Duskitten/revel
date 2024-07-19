@@ -1,8 +1,8 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "revel"
+name = "Revel Engine"
 major = 4
-minor = 3
-patch = 0
+minor = 2
+patch = 6
 status = "beta"
 module_config = ""
 website = "https://godotengine.org"
