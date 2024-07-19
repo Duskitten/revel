@@ -1,7 +1,7 @@
 # Revel Engine
 
 <p align="center">
-  <img src="https://github.com/Duskitten/revel/blob/master/logo_outlined.png" width="400" alt="Revel Engine logo">
+  <img src="logo_outlined.svg" width="400" alt="Revel Engine logo">
 </p>
 
 ## 2D and 3D cross-platform game engine
